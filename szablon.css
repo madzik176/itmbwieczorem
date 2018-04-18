@@ -1,0 +1,77 @@
+
+fieldset {
+	 border: 2px solid dark-blue;
+	 display: inline;
+	 font-weight:bold; 
+	 
+}
+
+
+#szablon {
+	position: relative;
+	background-image: url("tlo2.png");
+	background-repeat: no-repeat;
+	
+	width:1191px;
+	height:1686px;
+	font-family: Arial;
+	text-align:center;
+	font-weight: bold;
+	color:black;
+}
+
+
+.numer1 {
+	position:absolute;
+	width:1191px;
+	height:643px;
+	top:0;
+	padding-top: 200px;
+	font-size:300px;
+}
+
+.numer1 img {
+	position:absolute;
+	bottom: 30;
+	right: 40;
+	font-size:10px;
+	color:black;
+}
+
+.nazwa1 {
+	
+	top:0;
+	width:1191px;
+	height:303px;
+	position:absolute;
+	padding-top:520px;
+	font-size:70px;
+}
+
+
+.numer2 {
+	border-top: 1px dotted gray;
+	width:1191px;
+	height:643px;
+	padding-top:200px;
+	top: 843;
+	position:absolute;
+	font-size:300px;
+}
+
+.numer2 img {
+	position:absolute;
+	bottom: 30;
+	right: 40;
+	font-size:10px;
+	color:black;
+}
+
+.nazwa2 {
+	width:1191px;
+	height:303px;
+	top:843;
+	position:absolute;
+	padding-top: 520px;
+	font-size:70px;
+}
